@@ -15,10 +15,6 @@ Com ele você pode criar contas, sacar, depositar, transferir dinheiro e visuali
 
 - Transferir valores entre contas;
 
-- Listar todas as contas cadastradas;
-
-- Buscar conta por número;
-
 Tudo feito direto no terminal, num menu interativo.
 
 🧠 Conceitos de programação usados
